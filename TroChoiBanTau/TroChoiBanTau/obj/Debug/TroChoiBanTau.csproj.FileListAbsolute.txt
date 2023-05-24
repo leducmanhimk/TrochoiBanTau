@@ -1,0 +1,7 @@
+C:\Users\leducmanh\source\repos\TroChoiBanTau\TroChoiBanTau\obj\Debug\TroChoiBanTau.csproj.AssemblyReference.cache
+C:\Users\leducmanh\source\repos\TroChoiBanTau\TroChoiBanTau\obj\Debug\TroChoiBanTau.csproj.CoreCompileInputs.cache
+C:\Users\leducmanh\source\repos\TroChoiBanTau\TroChoiBanTau\bin\Debug\TroChoiBanTau.exe.config
+C:\Users\leducmanh\source\repos\TroChoiBanTau\TroChoiBanTau\bin\Debug\TroChoiBanTau.exe
+C:\Users\leducmanh\source\repos\TroChoiBanTau\TroChoiBanTau\bin\Debug\TroChoiBanTau.pdb
+C:\Users\leducmanh\source\repos\TroChoiBanTau\TroChoiBanTau\obj\Debug\TroChoiBanTau.exe
+C:\Users\leducmanh\source\repos\TroChoiBanTau\TroChoiBanTau\obj\Debug\TroChoiBanTau.pdb
